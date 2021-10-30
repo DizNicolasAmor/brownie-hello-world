@@ -16,6 +16,8 @@ This is a hello world app built with brownie.
 
 ## Setup
 
-$ brownie compile
+```
+   $ brownie compile
 
-$ brownie run scripts/deploy_hello_world.py
+   $ brownie run scripts/deploy_hello_world.py
+```
